@@ -296,5 +296,13 @@
     "symbol": "NYAN",
     "decimals": 18,
     "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/nyan.jpg"
+  },
+  {
+    "chainId": 42161,
+    "address": "0x8eD4191F81F1e1D24a8a1195267D024d9358c9d7",
+    "name": "Magnethereum",
+    "symbol": "MAGNET",
+    "decimals": 18,
+    "logoURI": "https://raw.githubusercontent.com/Magnethereum/MyFiles/main/magnethereum.jpg"
   }
 ]
